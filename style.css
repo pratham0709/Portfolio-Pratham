@@ -1477,7 +1477,7 @@ footer{
     }
   }
   
-    @media screen and (max-device-width:409px) {
+    @media (max-width:409px) {
     .page-header {
       padding-top: 30px;
       color: var(--bgOrange);
